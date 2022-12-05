@@ -1,5 +1,5 @@
 # README
-#Simple Flickr widget that allows me #to display photos from my flickr #feed by entering my ID, this is a #project I did for The Odin Project #https://www.theodinproject.com/#lessons/ruby-on-rails-flickr-api
+Simple Flickr widget that allows me to display photos from my flickr feed by entering my ID, this is a project I did for The Odin Project https://www.theodinproject.com/lessons/ruby-on-rails-flickr-api
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
