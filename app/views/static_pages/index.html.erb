@@ -5,6 +5,6 @@
   <% end %>
   <% unless @photos.nil? %>
     <% @photos.each do |photo| %>
-      <img src="<%= Flickr.url_t(photo) %>"/>
+      <img src="<%= Flickr.url_n(photo) %>"/>
     <% end %>
   <% end %>

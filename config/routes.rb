@@ -5,5 +5,5 @@ Rails.application.routes.draw do
   # root "articles#index"
 
   get 'static_pages/index'
-  
+  root "static_pages#index"
 end
